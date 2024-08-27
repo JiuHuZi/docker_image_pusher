@@ -4,3 +4,4 @@ bitnami/redis
 mysql
 wordpress
 openjdk:17
+bitnami/minio
