@@ -5,3 +5,4 @@ mysql
 wordpress
 openjdk:17
 bitnami/minio
+bitnami/minio-client
